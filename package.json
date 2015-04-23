@@ -1,0 +1,26 @@
+{
+  "name": "brokoli",
+  "version": "0.0.0",
+  "description": "client for fiware orion context broker",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yetzt/node-brokoli"
+  },
+  "keywords": [
+    "context",
+    "broker",
+    "fiware",
+    "orion"
+  ],
+  "author": "yetzt <node@yetzt.me> (https://yetzt.me/)",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/yetzt/node-brokoli/issues"
+  },
+  "homepage": "https://github.com/yetzt/node-brokoli",
+  "dependencies": {
+    "debug": "^2.1.3",
+    "request": "^2.55.0"
+  }
+}
